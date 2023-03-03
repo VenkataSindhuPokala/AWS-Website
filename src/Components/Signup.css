@@ -1,0 +1,53 @@
+.learn-description{
+    display: flex;
+   
+}
+.learn{
+    color: rgb(114, 114, 187);
+    font-size: 12px;
+}
+.descriptionl{
+    font-size: 12px;
+}
+.user{
+    border: 1px solid blue;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.title{
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+}
+.UserSingin{
+    display: flex;
+    justify-content: center;
+    margin: 0px 50px;
+}
+.next_button{
+    background-color: blue;
+    color: white;
+    padding: 4px 14px;
+}
+.email{
+    margin: 0px 0px 7px;
+}
+.main1{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+    padding-right: 50px;
+    margin: 0px 10px 10px 20px;
+    width: 308px;
+    max-width: 32%;
+}
+.email__address{
+    padding: 7px 10px;
+    margin: 0px 0px 7px;
+}
+.imagelogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 78px;
+}

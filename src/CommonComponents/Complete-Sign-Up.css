@@ -1,0 +1,21 @@
+.Sign__button{
+    border-radius: 18px;
+    border: none;
+    background-color: rgb(232, 133, 28);
+    padding: 5px;
+    display: flex;
+   margin-left: auto;
+   margin-right: auto;
+   text-decoration: none;
+}
+
+.Sign__button2{
+    border-radius: 28px;
+    border: none;
+    background-color: rgb(232, 133, 28);;
+    padding: 5px;
+    
+}
+a{
+    text-decoration: none;
+}

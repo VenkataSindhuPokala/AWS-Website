@@ -1,0 +1,65 @@
+.training-content{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+    margin-top: 100px;
+    padding: 0px 10px;
+}
+.Training-data{
+    display: flex;
+    color: white;
+    padding: 15px;
+    
+}
+.head1{
+    color: white;
+    padding: 20px 0px;
+}
+.text{
+    color: rgb(239, 180, 71);
+}
+.content{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+
+}
+.decision-builders{
+    display: flex;
+    margin: 0px auto;
+}
+.Training{
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px;
+   
+}
+.image{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+}
+.Training__title{
+    
+    display: flex;
+    justify-content:center;
+    font-size: 14px;
+    
+}
+.Training__description{ 
+    display: flex;
+    justify-content:center;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 64px;
+   
+}
+.Training_links{
+    display: flex;
+    justify-content:center;
+    font-size: 14px;
+    color: #4c4cd4;
+}

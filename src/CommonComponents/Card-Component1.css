@@ -1,0 +1,19 @@
+.head{
+    border:1px solid green;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+   margin-right: 20px;
+   width: 100%;
+   max-width: 300px;
+}
+.card__head{
+  font-size: 15px;
+  color: rgb(135, 151, 228);
+  font-weight: 3px;
+}
+.card__para{
+    font-size: 11px;
+    color: rgb(75, 79, 101);
+    font-weight: 3px;
+  }

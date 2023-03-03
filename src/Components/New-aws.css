@@ -1,0 +1,51 @@
+.Newaccount{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.Account_main{
+    display: flex;
+    justify-content: center;
+}
+.Accountimage{
+    padding: 10px 0px 60px;
+    display: flex;
+    justify-content: center;
+}
+.Account_right{
+   padding: 5px 11px 9px 11px;
+   width: 100%;
+   max-width: 272px;
+   border: 1px border black;
+}
+.main{
+    width: 100%;
+    max-width: 325px;
+}
+.Newaccount__tittle{
+    font-size: 14px;
+}
+.Newaccount__description{
+    font-size: 12px;
+    padding: 10PX 0px;
+}
+.Newaccount_email{
+    height: 100%;
+    max-height: 15PX;
+}
+.NewSignup{
+    
+    margin-bottom: 15px;
+    font-size: 28px;
+}
+.Newaccount_verifyemail{
+   background-color: rgb(251, 152, 99);
+    justify-content: center;
+    padding: 7px 74px;
+    margin-bottom: 20px;
+}
+.Newaccount_existingemail{
+   
+    justify-content: center;
+    padding: 7px 31px;
+}

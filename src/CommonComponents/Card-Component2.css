@@ -1,0 +1,32 @@
+.marketing__head{
+   color: rgb(112, 112, 235);
+
+}
+.marketing{
+    border:1px solid rgb(215, 216, 215);
+    padding: 15px;
+    justify-content: center;
+    margin-right: 20px;
+    width: 100%;
+    max-width: 300px;
+    cursor: pointer;
+}
+.marketing__para{
+    font-weight: 450;
+    font-size: 12px;
+    color: #065299;
+}
+.product{
+    border:1px solid rgb(215, 216, 215);
+    padding: 15px;
+    justify-content: center;
+    margin-right: 10px;
+    width: 100%;
+    max-width: 300px;
+    background-color: black;
+    cursor: pointer;
+}
+.product__head{
+    color: white;
+    
+ }

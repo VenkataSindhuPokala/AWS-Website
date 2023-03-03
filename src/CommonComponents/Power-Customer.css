@@ -1,0 +1,25 @@
+.power{
+    display: flex;
+    justify-content: center;
+}
+.power__heading{
+    color: white;
+    font-size: 12.5px;
+    display: flex;
+    justify-content: center;
+}
+.power-main{
+    margin: 30px 0px 60px;
+    display: flex;
+    justify-content: center;
+}
+.power1{
+    padding: 20px;
+    margin-right: 10px;
+    background-color: black;
+    
+}
+.power__image{
+    padding: 0px 30px 0px 0px;
+
+}

@@ -1,0 +1,22 @@
+.header{
+    padding: 0 40px 0 30px;
+    background-color: #232f3e;
+     color: #333; 
+    display: flex;
+    justify-content: space-between;
+    line-height: 1.6;
+}
+
+.header-right{
+    display: flex;
+    justify-content: flex-end;
+    margin: 17px 0px -10px 100px;
+    align-items: center;  
+}
+.aws-logo{
+    margin-top: 17px
+}
+.header-bottom{
+    background-color: #232f3e;
+    padding-left: 22px;
+}
